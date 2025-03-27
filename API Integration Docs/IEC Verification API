@@ -1,0 +1,28 @@
+# IEC Verification API
+
+## 📘 What is IEC Verification?
+
+The Importer-Exporter Code (IEC) is a unique identification number issued by the **Directorate General of Foreign Trade (DGFT)**. It is mandatory for any business conducting imports or exports in India.
+
+The IEC Verification API allows organizations to retrieve detailed information about importers or exporters using their IEC, enabling faster due diligence, smoother trade documentation, and enhanced regulatory compliance.
+
+---
+
+## 💼 What Can You Do with This API?
+
+- Instantly verify the legitimacy of importers/exporters  
+- Retrieve business profile details linked to a valid IEC  
+- Ensure DGFT compliance during trade transactions  
+- Streamline customs clearance and trade financing workflows  
+- Reduce onboarding risk for cross-border B2B partnerships
+
+---
+
+## 🔗 Integration Resources
+
+- 👉 [Integration Guide](https://docs.risewithprotean.io/49/integration-guide)  
+- 👉 [API Reference](https://docs.risewithprotean.io/49/api-reference)
+
+---
+
+> 📌 This API is part of the **Protean RISE Regulated API Marketplace**, providing seamless access to verified government data for improving trust, compliance, and speed in international trade operations.
