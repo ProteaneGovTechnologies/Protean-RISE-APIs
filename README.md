@@ -1,4 +1,4 @@
-# Protean RISE DevKit
+# Protean RISE APIs DevKit
 
 Welcome to the official developer kit for [Protean RISE](https://risewithprotean.io/), India’s first and largest regulated API marketplace for digital onboarding, identity verification, and compliance.
 
